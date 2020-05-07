@@ -13,17 +13,30 @@
 5) add block difficulty.
 6) add merkle root to the block header 
 7) print the final blockchain
+
+
+
 *********sample blockchain ****************
+
 Creating and Mining Genesis block... 
+
 Genesis block added... 
+
 Trying to Mine block 1... 
+
 number of transactions is 3
+
 Merkle Root : 34b15f096c089f0b14bb138c44bffb7aafca44e155ffc62de0a3a4e55f06a869
+
 Selecting miners 
+
 Alice is selected as miner
+
 Block Mined!!! : 04d8495970ecbb549ff35d354e7cfe35c0fb625297c452d921785927855ff4e7
 
+
 The block chain: 
+
 [
   {
     "index": 0,
